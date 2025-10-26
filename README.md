@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Daniel Williams (@roguedan)
+# 👋 Hi, I’m Dan Williams (@roguedan)
 
 Engineering leader with 20+ years of experience scaling fintech, trading, and e-commerce platforms globally.  
 Currently pivoting my deep TradFi + platform modernization background toward **Web3 infrastructure**, **DeFi protocols**, and **decentralized application architecture**.
